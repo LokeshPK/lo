@@ -18,5 +18,6 @@ else
 { 
 odd=odd+a;
 }
-}System.out.println("even"+even);
+}
+System.out.println("even"+even);
 System.out.println("odd"+odd);}}
